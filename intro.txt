@@ -1,0 +1,2 @@
+<p>My name is Om, and I am a BSc IT Data Science & Analytics student.
+I am learning Git and GitHub to improve my version control and collaboration skills.</p>
